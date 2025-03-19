@@ -1,0 +1,10 @@
+python
+developer
+challenge
+puzzle
+algorithm
+function
+variable
+iteration
+recursion
+syntax
